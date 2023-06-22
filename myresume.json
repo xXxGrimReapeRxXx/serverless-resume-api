@@ -1,81 +1,81 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Alexander Milanoski",
+    "label": "DevOps Intern",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "My project summary is here.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Bulgaria",
+      "postalCode": "1000",
+      "city": "Sofia",
+      "countryCode": "BG",
+      "region": "Sofia"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "network": "LinkedIn",
+      "username": "alexander",
+      "url": "https://www.linkedin.com/in/alexander-milanoski-a843b4261/"
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "name": "Atos Bulgaria Competency Center",
+    "position": "DevOps Intern",
+    "url": "https://atos.net/bg/bulgaria/atos-bulgaria-competency-center",
+    "startDate": "02/05/2023",
+    "endDate": "",
+    "summary": "Learning new technologies as a Cloud DevOps",
     "highlights": [
-      "Started the company"
+      "Started  working in the company"
     ]
   }],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
     "summary": "Description…",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      
     ]
   }],
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
+    "institution": "New Bulgarian University",
+    "url": "https://www.nbu.bg/en",
+    "area": "Civil and Coorporative Security",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
+    "startDate": "2018",
+    "endDate": "",
+    "score": "",
     "courses": [
-      "DB1101 - Basic SQL"
+      
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "Microsoft AI Fundamentals AI-900",
+    "date": "27.05.2023",
+    "issuer": "Microsoft",
+    "url": "https://www.credly.com/badges/5618ca53-c0f4-4310-8686-16e3a7adfe21/linked_in?t=rvbnnm"
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
     "summary": "Description…"
   }],
   "skills": [{
     "name": "Web Development",
-    "level": "Master",
+    "level": "Learning Level",
     "keywords": [
       "HTML",
       "CSS",
@@ -84,33 +84,33 @@
   }],
   "languages": [{
     "language": "English",
-    "fluency": "Native speaker"
+    "fluency": "Understands it."
   }],
   "interests": [{
     "name": "Wildlife",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Metalhead",
+      "Street Workout"
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+    "name": "Alexander Milanoski",
+    "reference": "acko"
   }],
   "projects": [{
-    "name": "Project",
-    "description": "Description…",
+    "name": "This",
+    "description": "for now…",
     "highlights": [
-      "Won award at AIHacks 2016"
+      ""
     ],
     "keywords": [
       "HTML"
     ],
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "url": "https://project.com/",
+    "startDate": "",
+    "endDate": "",
+    "url": "",
     "roles": [
-      "Team Lead"
+      ""
     ],
     "entity": "Entity",
     "type": "application"
