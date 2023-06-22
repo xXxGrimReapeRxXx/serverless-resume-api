@@ -75,3 +75,5 @@ For local developer environment
 2. In your GitHub repo, create a secret named `AZURE_FUNCTIONAPP_PUBLISH_PROFILE` with the contents of your publish profile.
 3. Head to Actions tab on your Repo and manually run the workflow. 
 4. Once it's complete. Visit Azure, select resource groups. find rg-serverlessresumeapi, and click on the function app, then click on the url, add getresume to the end of it, your resume info will be displayed. 
+ 
+ ~fin
